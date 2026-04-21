@@ -1,8 +1,15 @@
-## Hello, World.ᐟ𖹭
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=975DFF&width=435&lines=Hello%2C+World.%E1%90%9F%F0%96%B9%AD)](https://git.io/typing-svg)  
 I am Mari, <br>
 a software developer with a strong interest in **Front-end** and **UX Design**.
 - 🌱 Currently learning about **frameworks**.
-- 💬 Feel free to talk to me in english, portuguese or french :) <br>
+- 💬 Feel free to talk to me in english, portuguese or french :)
+<br>
+
+<p>
+<a href="https://www.linkedin.com/in/mariana-clarice-385168327/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href = "mailto:mclaricesilva04@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+</p>
 
 ### 💻 My Tech Stack:
 <p>
@@ -10,11 +17,4 @@ a software developer with a strong interest in **Front-end** and **UX Design**.
 <img src="https://skillicons.dev/icons?i=css" height="30" alt="html logo"  />
 <img src="https://skillicons.dev/icons?i=figma" height="30" alt="html logo"  />
 <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-</p>
-
-**Contact:**
-<p>
-<a href="https://www.linkedin.com/in/mariana-clarice-385168327/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href = "mailto:mclaricesilva04@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </p>
