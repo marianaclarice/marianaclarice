@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=975DFF&width=435&lines=Hello%2C+World.%E1%90%9F%F0%96%B9%AD)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=77DBFF&width=435&lines=Hello%2C+World.%E1%90%9F%F0%96%B9%AD)](https://git.io/typing-svg)  
 I am Mari, <br>
 a software developer with a strong interest in **Front-end** and **UX Design**.
 - 🌱 Currently learning about **frameworks**.
