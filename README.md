@@ -13,11 +13,13 @@ a software developer with a strong interest in **Front-end** and **UX Design**.
 
 ### 💻 My Tech Stack:
 <p>
-<img src="https://skillicons.dev/icons?i=react" height="30" alt="html logo"  />
+<img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
+<img src="https://skillicons.dev/icons?i=postgresql" height="30" alt="postgresql logo"  />
+<img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
 <img src="https://skillicons.dev/icons?i=html" height="30" alt="html logo"  />
-<img src="https://skillicons.dev/icons?i=css" height="30" alt="html logo"  />
-<img src="https://skillicons.dev/icons?i=javascript" height="30" alt="html logo"  />
-<img src="https://skillicons.dev/icons?i=typescript" height="30" alt="html logo"  />
-<img src="https://skillicons.dev/icons?i=figma" height="30" alt="html logo"  />
+<img src="https://skillicons.dev/icons?i=css" height="30" alt="css logo"  />
+<img src="https://skillicons.dev/icons?i=javascript" height="30" alt="javascript logo"  />
+<img src="https://skillicons.dev/icons?i=typescript" height="30" alt="typescript logo"  />
+<img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
 <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
 </p>
